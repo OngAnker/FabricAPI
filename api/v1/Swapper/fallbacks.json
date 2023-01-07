@@ -1,1 +1,5 @@
-["/Game/Characters/CharacterParts/Hats/Ramirez_Glasses::/Game/Characters/CharacterParts/Hats/Ramirez_Glasses_DarkBomber"]
+[
+    {
+        "/Game/Characters/CharacterParts/Hats/Ramirez_Glasses":"/Game/Characters/CharacterParts/Hats/Ramirez_Glasses_DarkBomber"
+    }
+]
